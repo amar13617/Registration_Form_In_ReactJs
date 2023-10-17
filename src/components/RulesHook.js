@@ -13,4 +13,4 @@ function RulesHook() {
   )
 }
 
-export default RulesHook
+export default RulesHook;
