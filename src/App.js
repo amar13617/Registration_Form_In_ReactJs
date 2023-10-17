@@ -6,7 +6,9 @@ import './App.css';
 //import Event from './components/Event';
 //import Conditinal from './components/Conditinal';
 //import Example from './components/Example'
-import ExampleEffect from './components/ExampleEffect';
+//import ExampleEffect from './components/ExampleEffect';
+import RulesHook from './components/RulesHook';
+
 function App() {
   
   return ( 
@@ -20,6 +22,7 @@ function App() {
     {/*<Conditinal/>*/}
     {/*<Example/>*/}
     {/*<ExampleEffect/>*/}
+    <RulesHook/>
     </div>
     </>
       
